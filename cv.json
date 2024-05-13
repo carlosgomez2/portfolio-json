@@ -1,0 +1,332 @@
+{
+  "basics": {
+    "name": "Carlos Gómez",
+    "label": "Desarrollador web Ruby on Rails",
+    "image": "https://avatars.githubusercontent.com/u/10210316?v=4",
+    "email": "carlosgomez.deb@gmail.com",
+    "phone": "+527227805698",
+    "url": "https://carlosgomez.dev",
+    "summary": "¡Saludos! Soy Carlos Gómez, un apasionado desarrollador web con una sólida trayectoria de 8 años especializado en Ruby on Rails. Disfruto enfrentando desafíos y explorando nuevas tecnologías para enriquecer mis habilidades. Además de mi experiencia destacada en Ruby on Rails, he contribuido significativamente en proyectos que involucran tecnologías como Javascript, Django, y Flask, entre otras.\nMe caracterizo por ser proactivo, comprometido y siempre motivado por el aprendizaje continuo. Estoy entusiasmado por sumergirme en nuevos proyectos y aportar con mi experiencia y pasión por el desarrollo web. ¡Espero poder contribuir al éxito de su equipo o proyecto!",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "Toluca de Lerdo",
+      "countryCode": "MX",
+      "region": "Estado de México"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "Carlos Gómez",
+        "url": "https://www.linkedin.com/in/desarrollador-ror-carlos-gomez/"
+      },
+      {
+        "network": "GitHub",
+        "username": "carlosgomez2",
+        "url": "https://github.com/carlosgomez2"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Ready",
+      "position": "Full Stack Ruby on Rails Developer",
+      "url": "https://joinready.com",
+      "startDate": "10-05-2022",
+      "endDate": "",
+      "summary": "Ready es el punto de encuentro de startups y empresas que necesitan desarrollar proyectos digitales con el top 5% de los mejores talentos del mercado Latinoamericano. Ready te permite conectar con el match perfecto, permitiéndote crecer tu equipo con la flexibilidad que necesitas. Trabajamos de manera rápida, simple y ágil. El futuro del trabajo comienza aquí. Encuentra a los mejores talentos en la industria digital, colabora con profesionales de todo Latam y obtén resultados extraordinarios.",
+      "highlights": []
+    },
+    {
+      "name": "MultiplicaTalent",
+      "position": "Full Stack Ruby on Rails Developer",
+      "url": "https://www.multiplicatalent.com/",
+      "startDate": "10-05-2021",
+      "endDate": "02-01-2022",
+      "summary": "Te ayudamos a descubrir, atraer, filtrar, contratar y gestionar a los perfiles digitales más destacados que tu empresa necesita para diferenciarse, de manera ágil y segura. Escala tu equipo y expande los límites de lo ordinario.",
+      "highlights": []
+    },
+    {
+      "name": "MariaLinda",
+      "position": "Full Stack Django Developer",
+      "url": "https://marialinda.mx/",
+      "startDate": "10-05-2021",
+      "endDate": "02-01-2021",
+      "summary": "Somos la red de clínicas dermatológicas más grande de México. Contamos con personal médico certificado, constantemente capacitado y con tecnología de última generación.",
+      "highlights": []
+    },
+    {
+      "name": "Reina Madre",
+      "position": "Full Stack Django Developer",
+      "url": "https://reinamadre.mx/",
+      "startDate": "10-05-2020",
+      "endDate": "02-01-2020",
+      "summary": "Convertimos la atención médica de la mujer en una experiencia extraordinaria: Segura, de alta especialidad y a costos asequibles.",
+      "highlights": []
+    },
+    {
+      "name": "Medikapp",
+      "position": "Full Stack Ruby on Rails Developer",
+      "url": "https://medik.app/",
+      "startDate": "10-05-2017",
+      "endDate": "02-01-2020",
+      "summary": "Gestión de consultorios medicos",
+      "highlights": []
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Organization",
+      "position": "Volunteer",
+      "url": "https://organization.com/",
+      "startDate": "2012-01-01",
+      "endDate": "2013-01-01",
+      "summary": "Description…",
+      "highlights": [
+        "Awarded 'Volunteer of the Month'"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Universidad UTEL",
+      "url": "https://utel.edu/",
+      "area": "Ingenieria en Sistemas Computacionales",
+      "studyType": "Licenciatura",
+      "startDate": "2011-01-01",
+      "endDate": "2013-01-01",
+      "score": "4.0",
+      "courses": [
+        "DB1101 - Basic SQL"
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "Award",
+      "date": "2014-11-01",
+      "awarder": "Company",
+      "summary": "There is no spoon."
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Certificate",
+      "date": "2021-11-07",
+      "issuer": "Company",
+      "url": "https://certificate.com"
+    }
+  ],
+  "publications": [
+    {
+      "name": "Publication",
+      "publisher": "Company",
+      "releaseDate": "2014-10-01",
+      "url": "https://publication.com",
+      "summary": "Description…"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Web Development",
+      "level": "Master",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "JavaScript"
+      ]
+    },
+    {
+      "name": "GitHub",
+      "level": "Avanzado",
+      "keywords": [
+        "Control de Versiones",
+        "Colaboración",
+        "Código Fuente",
+        "Git"
+      ]
+    },
+    {
+      "name": "Git",
+      "level": "Avanzado",
+      "keywords": [
+        "Control de Versiones",
+        "Colaboración",
+        "Código Fuente"
+      ]
+    },
+    {
+      "name": "JavaScript",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web",
+        "Frontend",
+        "Backend",
+        "Fullstack"
+      ]
+    },
+    {
+      "name": "CSS",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web",
+        "Frontend",
+        "Diseño Responsive"
+      ]
+    },
+    {
+      "name": "Bootstrap",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web",
+        "Frontend",
+        "CSS Framework",
+        "Diseño Responsive"
+      ]
+    },
+    {
+      "name": "PostgreSQL",
+      "level": "Avanzado",
+      "keywords": [
+        "Bases de Datos",
+        "SQL",
+        "Almacenamiento de Datos",
+        "Backend"
+      ]
+    },
+    {
+      "name": "Ruby on Rails",
+      "level": "Master",
+      "keywords": [
+        "Ruby",
+        "Rails",
+        "RSpec",
+        "Capybara",
+        "Sidekiq",
+        "Devise",
+        "Clearance",
+        "Searchkiq",
+        "Stimulus",
+        "Turbo",
+        "Hotwire",
+        "Webhooks",
+        "Swagger",
+        "API",
+        "Prawn"
+      ]
+    },
+    {
+      "name": "Docker",
+      "level": "Avanzado",
+      "keywords": [
+        "Deployment",
+        "Contenedores",
+        "CI/CD"
+      ]
+    },
+    {
+      "name": "Linux",
+      "level": "Master",
+      "keywords": [
+        "Ubuntu",
+        "Debian",
+        "Fedora",
+        "Servidores",
+        "Firewall"
+      ]
+    },
+    {
+      "name": "DigitalOcean",
+      "level": "Avanzado",
+      "keywords": [
+        "Ubuntu",
+        "Debian",
+        "Fedora",
+        "Servidores",
+        "Droplets",
+        "Base de Datos",
+        "Firewall",
+        "Redes",
+        "DNS"
+      ]
+    },
+    {
+      "name": "Nginx",
+      "level": "Avanzado",
+      "keywords": [
+        "Servidores",
+        "Proxy",
+        "Reverse Proxy",
+        "Web Server"
+      ]
+    },
+    {
+      "name": "Django",
+      "level": "Avanzado",
+      "keywords": [
+        "Python",
+        "Django",
+        "Django Rest Framework",
+        "API",
+        "Web Development",
+        "Backend"
+      ]
+    },
+    {
+      "name": "Mysql",
+      "level": "Avanzado",
+      "keywords": [
+        "Bases de Datos",
+        "SQL",
+        "Almacenamiento de Datos",
+        "Backend"
+      ]
+    },
+    {
+      "name": "Redis",
+      "level": "Avanzado",
+      "keywords": [
+        "Cache",
+        "Almacenamiento de Datos",
+        "Backend"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Español",
+      "fluency": "Nativo"
+    },
+    {
+      "language": "Inglés",
+      "fluency": "Basico"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Wildlife",
+      "keywords": [
+        "Ferrets",
+        "Unicorns"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "name": "Jane Doe",
+      "reference": "Reference…"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Project",
+      "startDate": "2019-01-01",
+      "endDate": "2021-01-01",
+      "description": "Description...",
+      "highlights": [
+        "Won award at AIHacks 2016"
+      ],
+      "url": "https://project.com/"
+    }
+  ]
+}
