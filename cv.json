@@ -175,26 +175,6 @@
       ]
     },
     {
-      "name": "Bootstrap",
-      "level": "Avanzado",
-      "keywords": [
-        "Desarrollo Web",
-        "Frontend",
-        "CSS Framework",
-        "Diseño Responsive"
-      ]
-    },
-    {
-      "name": "PostgreSQL",
-      "level": "Avanzado",
-      "keywords": [
-        "Bases de Datos",
-        "SQL",
-        "Almacenamiento de Datos",
-        "Backend"
-      ]
-    },
-    {
       "name": "Ruby on Rails",
       "level": "Master",
       "keywords": [
@@ -213,6 +193,36 @@
         "Swagger",
         "API",
         "Prawn"
+      ]
+    },
+    {
+      "name": "Mysql",
+      "level": "Avanzado",
+      "keywords": [
+        "Bases de Datos",
+        "SQL",
+        "Almacenamiento de Datos",
+        "Backend"
+      ]
+    },
+    {
+      "name": "Bootstrap",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web",
+        "Frontend",
+        "CSS Framework",
+        "Diseño Responsive"
+      ]
+    },
+    {
+      "name": "Postgresql",
+      "level": "Avanzado",
+      "keywords": [
+        "Bases de Datos",
+        "SQL",
+        "Almacenamiento de Datos",
+        "Backend"
       ]
     },
     {
@@ -269,16 +279,6 @@
         "Django Rest Framework",
         "API",
         "Web Development",
-        "Backend"
-      ]
-    },
-    {
-      "name": "Mysql",
-      "level": "Avanzado",
-      "keywords": [
-        "Bases de Datos",
-        "SQL",
-        "Almacenamiento de Datos",
         "Backend"
       ]
     },
