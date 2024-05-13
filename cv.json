@@ -6,7 +6,7 @@
     "email": "carlosgomez.deb@gmail.com",
     "phone": "+527227805698",
     "url": "https://carlosgomez.dev",
-    "summary": "¡Saludos! Soy Carlos Gómez, un apasionado desarrollador web con una sólida trayectoria de 8 años especializado en Ruby on Rails. Disfruto enfrentando desafíos y explorando nuevas tecnologías para enriquecer mis habilidades. Además de mi experiencia destacada en Ruby on Rails, he contribuido significativamente en proyectos que involucran tecnologías como Javascript, Django, y Flask, entre otras.\nMe caracterizo por ser proactivo, comprometido y siempre motivado por el aprendizaje continuo. Estoy entusiasmado por sumergirme en nuevos proyectos y aportar con mi experiencia y pasión por el desarrollo web. ¡Espero poder contribuir al éxito de su equipo o proyecto!",
+    "summary": "¡Hola! Soy Carlos Gómez, un apasionado desarrollador web con 8 años de experiencia en Ruby on Rails y habilidades en tecnologías como Javascript, Django y Flask. Soy proactivo, comprometido y siempre motivado por el aprendizaje continuo. Estoy emocionado por sumergirme en nuevos proyectos y aportar mi experiencia y pasión por el desarrollo web. ¡Espero poder contribuir al éxito de su equipo o proyecto!",
     "location": {
       "address": "",
       "postalCode": "",
@@ -34,7 +34,7 @@
       "url": "https://joinready.com",
       "startDate": "10-05-2022",
       "endDate": "",
-      "summary": "Ready es el punto de encuentro de startups y empresas que necesitan desarrollar proyectos digitales con el top 5% de los mejores talentos del mercado Latinoamericano. Ready te permite conectar con el match perfecto, permitiéndote crecer tu equipo con la flexibilidad que necesitas. Trabajamos de manera rápida, simple y ágil. El futuro del trabajo comienza aquí. Encuentra a los mejores talentos en la industria digital, colabora con profesionales de todo Latam y obtén resultados extraordinarios.",
+      "summary": "Ready es una plataforma de talento freelancer. Durante mi experiencia como desarrollador web en proyectos de reclutamiento de freelancers, utilicé tecnologías como Ruby on Rails, Bootstrap, Stimulus, PostgreSQL, Elastic Search, Redis, Sidekiq y Swagger. Mis responsabilidades abarcaron desde implementar sistemas de búsqueda avanzada hasta integrar flujos de información externa y desarrollar nuevas funcionalidades.",
       "highlights": []
     },
     {
@@ -43,7 +43,7 @@
       "url": "https://www.multiplicatalent.com/",
       "startDate": "10-05-2021",
       "endDate": "02-01-2022",
-      "summary": "Te ayudamos a descubrir, atraer, filtrar, contratar y gestionar a los perfiles digitales más destacados que tu empresa necesita para diferenciarse, de manera ágil y segura. Escala tu equipo y expande los límites de lo ordinario.",
+      "summary": "Multiplica Talent es una plataforma de reclutamiento de freelancers que conecta a empresas con talento especializado en tecnología. Ahí, desarrollé nuevas funcionalidades, integré flujos de información externa y optimicé la experiencia del usuario en una plataforma de retos técnicos para reclutamiento.",
       "highlights": []
     },
     {
@@ -52,7 +52,7 @@
       "url": "https://marialinda.mx/",
       "startDate": "10-05-2021",
       "endDate": "02-01-2021",
-      "summary": "Somos la red de clínicas dermatológicas más grande de México. Contamos con personal médico certificado, constantemente capacitado y con tecnología de última generación.",
+      "summary": "MaríaLinda es una red de clínicas de tratamientos estéticos. Durante mi tiempo allí, desarrollé un sistema de gestión interna para las cabinas y consultorios médicos, permitiendo un registro histórico de los tratamientos de los pacientes. Utilicé tecnologías como Django, MySQL, JavaScript, jQuery y Bootstrap, entre otras, para implementar diversos flujos que optimizaron la operación de la clínica.",
       "highlights": []
     },
     {
@@ -61,7 +61,7 @@
       "url": "https://reinamadre.mx/",
       "startDate": "10-05-2020",
       "endDate": "02-01-2020",
-      "summary": "Convertimos la atención médica de la mujer en una experiencia extraordinaria: Segura, de alta especialidad y a costos asequibles.",
+      "summary": "Reina Madre es una red de clinicas para la mujer. Desarrollé un sistema de gestión para consultorios médicos que permite a los profesionales llevar un seguimiento preciso de sus pacientes y tratamientos. Utilicé tecnologías como Django, MySQL, JavaScript, jQuery y Bootstrap, entre otras, para optimizar los flujos de trabajo en la clínica, garantizando una atención segura, altamente especializada y a precios asequibles.",
       "highlights": []
     },
     {
@@ -70,7 +70,7 @@
       "url": "https://medik.app/",
       "startDate": "10-05-2017",
       "endDate": "02-01-2020",
-      "summary": "Gestión de consultorios medicos",
+      "summary": "Medikapp es una aplicación de gestión de consultorios médicos que facilita a los profesionales un seguimiento detallado de sus pacientes y tratamientos. Durante su desarrollo, empleé tecnologías avanzadas como Ruby on Rails, PostgreSQL, JavaScript, Vue.js y Bootstrap, además de integrar Docker para una mejor eficiencia y escalabilidad del sistema.",
       "highlights": []
     }
   ],
