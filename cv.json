@@ -6,7 +6,7 @@
     "email": "carlosgomez.deb@gmail.com",
     "phone": "+527227805698",
     "url": "https://carlosgomez.dev",
-    "summary": "¡Hola! Soy Carlos Gómez, un apasionado desarrollador web con 8 años de experiencia en Ruby on Rails y habilidades en tecnologías como Javascript, Django y Flask. Soy proactivo, comprometido y siempre motivado por el aprendizaje continuo. Estoy emocionado por sumergirme en nuevos proyectos y aportar mi experiencia y pasión por el desarrollo web. ¡Espero poder contribuir al éxito de su equipo o proyecto!",
+    "summary": "¡Hola! Soy Carlos Gómez, un apasionado desarrollador web con +8 años de experiencia en Ruby on Rails y habilidades en tecnologías como Javascript, Django y Flask. Soy proactivo, comprometido y siempre motivado por el aprendizaje continuo. Estoy emocionado por sumergirme en nuevos proyectos y aportar mi experiencia y pasión por el desarrollo web. ¡Espero poder contribuir al éxito de su equipo o proyecto!",
     "location": {
       "address": "",
       "postalCode": "",
@@ -35,6 +35,24 @@
       "startDate": "10-05-2022",
       "endDate": "",
       "summary": "Ready es una plataforma de talento freelancer. Durante mi experiencia como desarrollador web en proyectos de reclutamiento de freelancers, utilicé tecnologías como Ruby on Rails, Bootstrap, Stimulus, PostgreSQL, Elastic Search, Redis, Sidekiq y Swagger. Mis responsabilidades abarcaron desde implementar sistemas de búsqueda avanzada hasta integrar flujos de información externa y desarrollar nuevas funcionalidades.",
+      "highlights": []
+    },
+    {
+      "name": "Algotrading",
+      "position": "Consultor",
+      "url": "",
+      "startDate": "01-01-2024",
+      "endDate": "01-05-2024",
+      "summary": "Algotrading es una plataforma de trading que conecta con plataformas como IBKR, Polygon o Alpha Vantage para obtener datos de mercado y ejecutar estrategias de trading. Durante mi tiempo allí, diseñe flujos y servicios que ayudarían a la operación del producto, principalmente utilizando Python y AWS.",
+      "highlights": []
+    },
+    {
+      "name": "Blokko",
+      "position": "Consultor",
+      "url": "https://blokkoio.bubbleapps.io/",
+      "startDate": "01-09-2023",
+      "endDate": "01-11-2023",
+      "summary": "Blokko es una pasarela de pagos para criptomonedas. Durante mi tiempo allí, diseñe flujos y servicios que ayudarían a la operación del producto, principalmente utilizando Python, RedisQueue, Flask, y servicios de GCP como PubSub, SQL, Compute Engine, etc.",
       "highlights": []
     },
     {
