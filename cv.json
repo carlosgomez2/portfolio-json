@@ -24,6 +24,11 @@
         "network": "GitHub",
         "username": "carlosgomez2",
         "url": "https://github.com/carlosgomez2"
+      },
+      {
+        "network": "Website",
+        "username": "carlosgomezror.dev",
+        "url": "https://carlosgomezror.dev"
       }
     ]
   },
@@ -329,6 +334,15 @@
     },
     {
       "name": "CI/CD",
+      "level": "Avanzado",
+      "keywords": [
+        "Lang",
+        "Desarrollo Web",
+        "Backend"
+      ]
+    },
+    {
+      "name": "Astro",
       "level": "Avanzado",
       "keywords": [
         "Lang",

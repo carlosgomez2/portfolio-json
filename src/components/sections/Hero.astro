@@ -6,6 +6,7 @@ import Phone from "@/icons/Phone.astro";
 import LinkedIn from "@/icons/LinkedIn.astro";
 import GitHub from "@/icons/GitHub.astro";
 import WorldMap from "@/icons/WorldMap.astro";
+import Website from "@/icons/Website.astro";
 import type { SocialIcon } from "@/types";
 
 const { name, label, image, location, profiles, phone, email } = basics;
@@ -14,12 +15,16 @@ const { city, region } = location;
 const SOCIAL_ICONS: SocialIcon = {
   GitHub,
   LinkedIn,
+  Website
 };
 
 const linkedInfo = profiles.find(({ network }) => network === "LinkedIn");
 const linkedUrl = linkedInfo?.url;
 
-const printInfo = [email, phone, linkedUrl].filter(Boolean).join(" • ");
+const website = profiles.find(({ network }) => network === "Website");
+const websiteUrl = website?.url;
+
+const printInfo = [email, phone, websiteUrl, linkedUrl].join(" • ");
 ---
 
 <Section>
