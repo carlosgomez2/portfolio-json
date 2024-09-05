@@ -308,6 +308,33 @@
         "Almacenamiento de Datos",
         "Backend"
       ]
+    },
+    {
+      "name": "Python",
+      "level": "Avanzado",
+      "keywords": [
+        "Lang",
+        "Desarrollo Web",
+        "Backend"
+      ]
+    },
+    {
+      "name": "AWS",
+      "level": "Avanzado",
+      "keywords": [
+        "Lang",
+        "Desarrollo Web",
+        "Backend"
+      ]
+    },
+    {
+      "name": "CI/CD",
+      "level": "Avanzado",
+      "keywords": [
+        "Lang",
+        "Desarrollo Web",
+        "Backend"
+      ]
     }
   ],
   "languages": [
